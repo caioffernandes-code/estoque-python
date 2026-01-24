@@ -1,0 +1,7 @@
+id_venda,produto_id,data_venda,forma_pagamento,parcelas,canal_venda,vendedor_id
+101,1,2024-11-01,Cartão de Crédito,10,Loja Física,1
+102,3,2024-11-02,PIX,1,E-commerce,1
+103,4,2024-11-02,Dinheiro,1,Loja Física,1
+104,2,2024-11-03,Cartão de Crédito,12,E-commerce,3
+105,5,2024-11-04,PIX,1,Loja Física,1
+106,6,2024-11-05,Cartão de Crédito,8,Loja Física,2

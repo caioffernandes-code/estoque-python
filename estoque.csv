@@ -1,0 +1,4 @@
+id,marca,modelo,codigo_barras,categoria,preco,memoria_gb,ram_gb,camera_mp,bateria_mah,ano_lancamento,sistema
+7,Apple,iPhone 11,6,Usado,2499.9,64,4,12,3110,2019,iOS
+8,Samsung,Galaxy A15,5,Entrada,799.9,64,4,48,5000,2024,Android
+9,Xiaomi,Redmi Note 12,3,Intermediário,1399.9,128,6,50,5000,2023,Android

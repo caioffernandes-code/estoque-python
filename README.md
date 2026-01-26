@@ -1,3 +1,30 @@
+## 📦 Análise de Estoque – Loja de Celulares
+
+### 🎯 Objetivo
+Analisar produtos não vendidos e estoque parado de uma loja de celulares para apoiar decisões comerciais.
+
+### 📂 Bases de Dados
+Foram utilizadas duas bases de dados:
+- Base de **produtos (celulares)**  
+- Base de **vendas**
+
+Essas bases foram cruzadas por meio de uma função desenvolvida em Python, responsável por identificar os produtos que não tiveram vendas registradas.
+
+### ⚙️ Processamento dos Dados
+- Cruzamento da base de produtos com a base de vendas
+- Identificação dos produtos não vendidos
+- Geração de um **estoque de produtos não vendidos**
+- Exportação dos dados filtrados para arquivos **CSV**
+
+### 📊 Visualização
+Os dados processados foram disponibilizados em um **dashboard interativo no Streamlit**, permitindo a visualização do estoque parado e a análise dos produtos não vendidos de forma simples e dinâmica.
+
+### 🚀 Tecnologias Utilizadas
+- Python  
+- Pandas  
+- Streamlit  
+
+
 DOCUMENTAÇÃO E COMANDOS USADOS NO PROJETO DE ANÁLISE DE DADOS DE VENDAS DE CELULARES (FICTÍCIO)
 
 python3 -m pip install -r requirements.txt

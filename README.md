@@ -1,4 +1,4 @@
-#estoque-python
+# estoque-python
 
 ## Instalação das Dependências
 Para instalar as bibliotecas necessárias, execute no terminal:
